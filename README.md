@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-arsalan-khan&show_icons=true&locale=en" alt="arsalan-smit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arsalan-khan" alt="arsalan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arsalan-khan&" alt="arsalan" /></p>
