@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-arsalan-khan&show_icons=true&locale=en" alt="muhammad-arsalan-khan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arsalan-khan&" alt="muhammad-arsalan-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-arsalan-khan&show_icons=true&locale=en" alt="muhammad-arsalan-khan" /></p>
