@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalan-smit&label=Profile%20views&color=0e75b6&style=flat" alt="arsalan-smit" /> </p>
 
-- 🔭 I’m currently working on [Microfianance](https://microfinanc.netlify.app/)
+- 🔭 I’m currently working on ReactJs, NodeJs
 
-- 🌱 I’m currently learning **Reactnative,typescript,nextjs,MySQL,nest,aws**
+- 🌱 I’m currently learning **typescript , MySQL**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
